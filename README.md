@@ -16,10 +16,13 @@
   E#t                               ,             ;#t      :                  fE                      ,,,      .,,  :,,,,,,,,,,,,,.
   L:                                               :;                          ,                                                   
 ```
+```
   Networking Enthusiast
   Web Exp
   Py
   Linux
-
+```
+```
   Currently learning:
   Windows Exp
+```
